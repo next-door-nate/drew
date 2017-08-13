@@ -11,6 +11,10 @@ class App extends Component {
           <h2>Happy Birthday Drew!</h2>
         </div>
         <p className="App-intro">
+          <div className="banner">
+            <img src="https://media.giphy.com/media/7JGpV08jBRytG/giphy.gif" alt="fuck you yarn" />
+          </div>
+          <br/>
           I&apos;m not sure what you&apos;re gonna use this for, but you have it now...
         </p>
       </div>
